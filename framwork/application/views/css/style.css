@@ -1,0 +1,13 @@
+.users-table {
+    margin-top: 40px;
+}
+.for-button {
+    display: flex;
+    justify-content: flex-end;
+}
+.alert {
+    color: red;
+}
+.pages {
+    display: block;
+}

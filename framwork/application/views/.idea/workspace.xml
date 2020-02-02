@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d23bba5-f97f-4dc4-8908-b4925d644ee3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/views.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.3.1-dist/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/def.php" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/def.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1QxnE65QkfsqrNXKmq40ZwUyzD5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d23bba5-f97f-4dc4-8908-b4925d644ee3" name="Default Changelist" comment="" />
+      <created>1568720999684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568720999684</updated>
+      <workItem from="1568721002381" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
